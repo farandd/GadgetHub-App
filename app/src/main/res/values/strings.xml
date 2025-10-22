@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Product Catalog</string>
+<string name="tab_hp">HP</string>
+<string name="tab_laptop">Laptop</string>
+<string name="tab_headset">Headset</string>
+<string name="buy_button">BELI SEKARANG</string>
+<string name="stock_format">Stok: %d</string>
+<string name="promo_title">🔥 FLASH SALE 🔥</string>
+<string name="promo_desc">Diskon hingga 50% untuk semua kategori!</string>
+<string name="products_title">Produk Pilihan</string>
+<string name="price_label">💰 Harga:</string>
+<string name="stock_label">📦 Tersedia:</string>
+<string name="toast_buy">Membeli: %s</string>
+</resources>

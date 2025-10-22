@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent">#FF4081</color>
+    <color name="black">#000000</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F5F7FA</color>
+    <color name="image_background">#E8EAF0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- Price Colors -->
+    <color name="price_background">#E8F5E8</color>
+    <color name="price_label">#4CAF50</color>
+    <color name="price_value">#2E7D32</color>
+
+    <!-- Stock Colors -->
+    <color name="stock_available">#4CAF50</color>
+    <color name="stock_low">#FF9800</color>
+    <color name="stock_empty">#F44336</color>
+
+    <!-- Button Colors -->
+    <color name="button_buy">#FF6B35</color>
+    <color name="button_buy_pressed">#E55A2B</color>
+
+    <!-- Card Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+</resources>
